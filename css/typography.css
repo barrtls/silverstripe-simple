@@ -49,6 +49,19 @@ body {
   body a:link { -webkit-tap-highlight-color: #b80000 } /* this sets the highlight color when links are tapped on Safari (browser) on iPhone */
 
 
+.text-center {
+	text-align: center
+}
+.text-left {
+	text-align: left
+}
+.text-right {
+	text-align: right
+}
+
+
+
+
 /* HEADERS */
 .typography h1,
 .typography h2,
